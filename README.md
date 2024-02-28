@@ -7,7 +7,7 @@ A reusable Mechanical Adapter based on Magsafe for Demos and Holding all sorts o
 
 To make it re-usable, MagBite uses a "cross" hole pattern for M3 screws with recesses so that the screws do not touch your device.
 
-![Back View](Images/back)
+![Back View](Images/side.png)
 
 The hole pattern is excessive since a single screw can out-pace the mounting force of most Magsafe magnets, but it allows flexibility in how the ring is mounted. I recommend 2 screws per design on the "host" side.
 
